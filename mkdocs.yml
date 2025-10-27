@@ -1,1 +1,8 @@
 site_name: My Docs
+theme:
+  name: material
+nav:
+  - Inici: index.md
+  - Documentacio:
+      - Comandes: comandos.md
+      - Documentació-proces: documentacio.md
