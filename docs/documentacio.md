@@ -11,3 +11,8 @@
 ## CREACION DE BRANCA
 
 ![captura3](./capturas/captura3.png)
+
+
+## PROVADO DE EL SERVIDOR MKDOCS
+
+![captura4](./capturas/captura4.png)
